@@ -5,10 +5,20 @@
 - [Animation Final Project](https://youtu.be/-dXJngvF5k4)
 
 ### Model handmade
-- Ocean wave
+- Ocean
 - Hammer
 - Thunder
+- Intro
+
+### Do List
 - Intro opening
+- Camera Shaking
+- Quick explode
+- Lightning
+- Light setting
+- Camera setting
+- Ocean Wave
+- Video editting
 
 ### Process CLIP
 - [CLIP1](https://youtu.be/Og6B5AH5AFQ)
