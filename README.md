@@ -35,6 +35,7 @@
 - [CLIP12](https://youtu.be/S4Z-RZufF8Y)
 
 ### references
+- [Introduction](https://www.youtube.com/watch?v=4GR0takbq2s)
 - [Sound](https://mixkit.co/)
 - [Model](https://free3d.com/)
 - [Thunder](https://www.youtube.com/watch?v=0qwMCheJuOQ)
